@@ -1,0 +1,46 @@
+###
+# Unity folders and files
+###
+[Aa]ssets/AssetStoreTools*
+[Bb]uild/
+[Ll]ibrary/
+[Ll]ocal[Cc]ache/
+[Oo]bj/
+[Tt]emp/
+[Uu]nityGenerated/
+# file on crash reports
+sysinfo.txt
+# Unity3D generated meta files
+*.pidb.meta
+
+###
+# VS/MD solution and project files
+###
+[Ee]xportedObj/
+*.booproj
+*.csproj
+*.sln
+*.suo
+*.svd
+*.unityproj
+*.user
+*.userprefs
+*.pidb
+.DS_Store
+
+###
+# OS generated
+###
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db:Library/PackageCache/com.unity.burst@7a907cf5a459/.Runtime/libburst-llvm-18.dylib
+Library/PackageCache/com.unity.burst@7a907cf5a459/.Runtime/libburst-llvm-10.dylib
+*.dylib
+Library/PackageCache/com.unity.burst@7a907cf5a459/.Runtime/libburst-llvm-10.dylib
+Library/PackageCache/com.unity.burst@7a907cf5a459/.Runtime/libburst-llvm-10.dylib
+/Library/PackageCache/com.unity.burst@7a907cf5a459/.Runtime
